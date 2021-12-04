@@ -1,6 +1,6 @@
-# Scalable and Interpretable Point Processes
+# Variational Inference-Decomposable Point Process model (VI-DPP) 
 
-Pytorch implementation of the Variational Inference-Decomposable Point Process model (VI-DPP).
+Pytorch implementation of the (vanilla) Variational Inference-Decomposable Point Process model (VI-DPP).
 
 ## Install
 
