@@ -1,4 +1,4 @@
-# The Variational Inference-Decomposable Point Process (VI-DPP) model
+# The Variational Inference-Decoupled Point Process (VI-DPP) model
 
 Pytorch implementation of the (vanilla) VI-DPP.
 
