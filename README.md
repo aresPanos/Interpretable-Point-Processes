@@ -1,6 +1,7 @@
 # The Variational Inference-Decoupled Point Process (VI-DPP) model
 
-Pytorch implementation of the (vanilla) VI-DPP.
+This repository contains the Pytorch implementation of the (vanilla) VI-DPP method from the AISTATS-23 paper [Scalable Marked Point Processes for Exchangeable and
+Non-Exchangeable Event Sequences](https://arxiv.org/pdf/2105.14574.pdf).
 
 ## Install
 
