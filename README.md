@@ -34,8 +34,3 @@ The user can define the following arguments before training the model:
 * --use_prior: Whether the prior (and posterior) of betas and alpha (variational parameters) is taken into account for computing ELBO. Type: boolean. Default=False
 * --seed: Set seed for random number generator. Type: integer. Default=0
 * --verbose: Set verbose mode. Type: boolean. Default=True
-
-## Acknowledgements
-Our code is based on the following respoitories:
-* [Attentive Neural Hawkes Process](https://github.com/yangalan123/anhp-andtt)
-* [HYPRO](https://github.com/ant-research/hypro_tpp/tree/main)
